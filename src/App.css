@@ -55,3 +55,8 @@ img{
     margin-top: 0;
   }
 }
+
+@media(max-width: 600px){
+#preview{font-size: 10px;}
+  
+}
